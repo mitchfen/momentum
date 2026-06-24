@@ -1,11 +1,7 @@
 {
   "DailyTasks": [
-    "Early Morning: Feed the cat + Weigh yourself + Meditate",
-    "Mid morning: Coffee + Medication + Creatine",
-    "Body: Brush teeth + Shower + Shave",
-		"Work out",
-    "Drink protein",
-    "Vacuum"
+    "Early Morning: Brush Teeth + Feed the cat + Weigh yourself + Meditate + Coffee + Medication",
+    "After Lunch: Work out + Protein + Vacuum"
   ],
   "TimeZone": "America/Detroit"
 }

@@ -265,3 +265,4 @@ __pycache__/
 appsettings.development.json
 kubernetes-manifests/configmap.yaml
 data/
+./src/momentum
